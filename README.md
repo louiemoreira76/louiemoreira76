@@ -8,8 +8,8 @@
 - 🌱 Todos Ateriomente Estou aprendendo, mas existem meus extras como Rust
 
 - Como entrar em contato comigo:
-- ✉️ E-mail: [seu endereço de e-mail]
-- 📱 LinkedIn: [seu perfil do LinkedIn]
-- 🐦 Twitter: [@seu_nome_no_Twitter]
-
+- ✉️ E-mail: [...]
+- 📱 LinkedIn: [...]
+- 🐦 Twitter: [...]
+- 👾 Instagram [louie.moreira]
 - ⚡ Fun fact: 🤪Amo fazer parodias de sites ou invenções interativas
