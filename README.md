@@ -6,6 +6,7 @@
 
 - 🔭 Desenvolvimento Front-End:
   Minha criatividade se une à minha habilidade técnica para dar vida a interfaces cativantes e responsivas. Com proficiência em HTML, CSS, JavaScript e MySQL busco continuamente as melhores práticas de design e otimização para garantir que cada usuário tenha uma experiência única e agradável.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CCS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
