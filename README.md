@@ -7,7 +7,7 @@
 <body>
     <div align="center" >
         <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Luis Moreira</h1>
-    </div>
+ </div>
 <div align="center">
     
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louie.moreira/)
@@ -19,6 +19,8 @@
     
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=louiemoreira76&show_icons=true&theme=tokyonight)
 ![Luis GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&theme=blue-green)
+
+![Code](https://github.com/louiemoreira76/imagens/blob/main/rust2.gif)
 </div>
 
 <hr/>
