@@ -20,6 +20,7 @@
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=louiemoreira76&show_icons=true&theme=tokyonight)
 ![Luis GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&theme=blue-green)
 </div>
+
 <hr/>
 <table align="center">
   <tr>
@@ -45,32 +46,51 @@
   </tr>
 </table>
 
-<h2 align="center">- 🔭 Desenvolvimento Front-End:</h2>
-  Minha criatividade se une à minha habilidade técnica para dar vida a interfaces cativantes e responsivas. Com proficiência em HTML, CSS, JavaScript e MySQL busco continuamente as melhores práticas de design e otimização para garantir que cada usuário tenha uma experiência única e agradável.  
-
+<h2 align="center">- 🔭 Desenvolvimento Full-Stack:</h2>
+ <p>
+      Minha criatividade se une à minha habilidade técnica para dar vida a interfaces cativantes e responsivas. Com proficiência em HTML, CSS, JavaScript e MySQL busco continuamente as melhores práticas de design e otimização para garantir que cada usuário tenha uma experiência única e agradável.
+     
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ </p>
 
-- ⚛️ Adentrando profundamente o ecossistema React, estou trabalhando na construção de componentes reutilizáveis e interativos. Através da aliança com os recursos poderosos do React, estou empolgado para dar vida a aplicações dinâmicas e de alto desempenho que oferecem verdadeiro valor aos usuários.
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<div>
-    <div align="left"> 
-        
-- 🌱 Todos Ateriomente Estou aprendendo, mas existem meus extras como Rust 
-        ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-    </div>
-    <div align="rigth">
-
-</div>
-</div>
-<div align="center">
+ <h2 align="center">- ⚛️ Adentrando profundamente o ecossistema React</h2>
+<p>
+    Estou trabalhando na construção de componentes reutilizáveis e interativos. Através da aliança com os recursos poderosos do React, estou empolgado para dar vida a aplicações dinâmicas e de alto desempenho que oferecem verdadeiro valor aos usuários.
     
-## Sistemas Operacionais
-- Windows 10 ![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- Bodhi Linux
-- E outros Linuxs
-</div>
-- ⚡ Fun fact: 🤪Amo fazer parodias de sites ou invenções interativas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</p>
 
+ <h2>- 🌱 Aprendizagem</h2>
+<p> Todos Ateriomente Estou aprendendo, mas existem meus extras como Rust 
+    
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)</p>
+ 
+<div height="30" width="40">
+<hr/>
+<table align="center">
+  <tr>
+    <td>
+        
+![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  </td>
+     <td>
+        
+![LinuxPop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) </td>
+     <td>
+        
+![Linuxs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</td>
+  </tr>
+  <tr>
+    <td>Everday</td>
+    <td>As vezes</td>
+    <td>Estudos</td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+- ⚡ Fun fact: 🤪Amo fazer parodias de sites ou invenções interativas
+    
+[![GitHub](https://github.com/louiemoreira76/imagens/blob/main/github.gif)]([https://www.instagram.com/louie.moreira/](https://giphy.com/devrock/)https://giphy.com/devrock/)
+</div>
 </body>
 </html>
