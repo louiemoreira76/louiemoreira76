@@ -90,7 +90,7 @@
 <div align="center">
 - ⚡ Fun fact: 🤪Amo fazer parodias de sites ou invenções interativas
     
-[![GitHub](https://github.com/louiemoreira76/imagens/blob/main/github.gif)]([https://www.instagram.com/louie.moreira/](https://giphy.com/devrock/)https://giphy.com/devrock/)
+[![GitHub](https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif)]([https://www.instagram.com/louie.moreira/](https://giphy.com/devrock/)https://giphy.com/devrock/)
 </div>
 </body>
 </html>
