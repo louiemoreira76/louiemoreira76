@@ -45,18 +45,31 @@
   </tr>
 </table>
 
-<h2 style="color: blue">- 🔭 Desenvolvimento Front-End:</h2>
-  Minha criatividade se une à minha habilidade técnica para dar vida a interfaces cativantes e responsivas. Com proficiência em HTML, CSS, JavaScript e MySQL busco continuamente as melhores práticas de design e otimização para garantir que cada usuário tenha uma experiência única e agradável.
+<h2 align="center">- 🔭 Desenvolvimento Front-End:</h2>
+  Minha criatividade se une à minha habilidade técnica para dar vida a interfaces cativantes e responsivas. Com proficiência em HTML, CSS, JavaScript e MySQL busco continuamente as melhores práticas de design e otimização para garantir que cada usuário tenha uma experiência única e agradável.  
 
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 - ⚛️ Adentrando profundamente o ecossistema React, estou trabalhando na construção de componentes reutilizáveis e interativos. Através da aliança com os recursos poderosos do React, estou empolgado para dar vida a aplicações dinâmicas e de alto desempenho que oferecem verdadeiro valor aos usuários.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-- 🌱 Todos Ateriomente Estou aprendendo, mas existem meus extras como Rust ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+<div>
+    <div align="left"> 
+        
+- 🌱 Todos Ateriomente Estou aprendendo, mas existem meus extras como Rust 
+        ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+    </div>
+    <div align="rigth">
 
-
+</div>
+</div>
+<div align="center">
+    
+## Sistemas Operacionais
+- Windows 10 ![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- Bodhi Linux
+- E outros Linuxs
+</div>
 - ⚡ Fun fact: 🤪Amo fazer parodias de sites ou invenções interativas
 
 </body>
