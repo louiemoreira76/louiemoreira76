@@ -47,22 +47,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  </div>
 
-<hr/>
-<div>
- <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&theme=blue-green" align="left">
-
-<img src="https://github.com/louiemoreira76/imagens/blob/main/rust2.gif" align="center"/>
-
-</div>
-
-![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![LinuxPop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Linuxs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-<div height="30" width="40">
+ <div height="30" width="40">
                     <h1 align="left">Conheça-me Melhor:</h1>
         <table align="left">
             <tr>
@@ -80,6 +65,23 @@
             </tr>
         </table>	
     </div>
+
+<hr/>
+<div>
+ <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&theme=blue-green" align="left">
+
+<img src="https://github.com/louiemoreira76/imagens/blob/main/rust2.gif" align="center"/>
+
+</div>
+
+![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LinuxPop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Linuxs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
 
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
 
