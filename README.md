@@ -12,12 +12,8 @@
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiemoreira76&label=Profile%20views&color=0e75b6&style=flat" alt="raguinata" /> </p>
     </div>
     
-<div align="center">
-    
-
-</div>
-
 <div>
+      <h1 align="left">Sobre Mim:</h1>
         <img align="right" src="https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif" width="400"/>
         <table align="left">
             <tr>
