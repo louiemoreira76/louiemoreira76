@@ -88,7 +88,27 @@
             </tr>
         </table>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&show_icons=true&theme=tokyonight" align="rigth">
+
+
+<div height="30" width="40">
+                    <h1 align="right">Conecte-se comigo:</h1>
+        <table align="right">
+            <tr>
+    <td>
+       <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"/>       
+</td>
+<td>              
+            
+[![Game](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=whit)]()</td>
+                <td><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg"/></td>
+            </tr>
+            <tr>
+                <td>Everday</td>
+                <td>As vezes</td>
+                <td>Estudos</td>
+            </tr>
+        </table>
+    </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
