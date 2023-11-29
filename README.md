@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/louiemoreira76/imagens/blob/main/giphy.gif" height="550px" width="1500px"/>
+    <img src="https://github.com/louiemoreira76/imagens/blob/main/giphy.gif" height="500px" width="1500px"/>
 
 <div align="center">
         <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello"> Hi, My name is Luis Moreira</h1>
