@@ -89,7 +89,7 @@
         </table>
     </div>
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
