@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/louiemoreira76/imagens/blob/main/giphy.gif" height="500px" width="1500px"/>
+    <img src="https://github.com/louiemoreira76/imagens/blob/main/giphy.gif" height="450px" width="1500px"/>
 
 <div align="center">
         <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello"> Hi, My name is Luis Moreira</h1>
@@ -29,13 +29,6 @@
                 <td>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</td>
                 <td>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</td>
                 <td>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</td>
-            </tr>
-            <tr>
-                <td>Hábil</td>
-                <td>Camarada</td>
-                <td>Sensato</td>
-                <td>Justo</td>
-                <td>FrameWork</td>
             </tr>
         </table>
     </div>
