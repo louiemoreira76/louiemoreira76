@@ -80,12 +80,15 @@
             
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louie.moreira/)</td>
                 <td>[![Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()</td>
+                <td>[![Navegador](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)]()</td>
+                <td>[![Love](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()</td>
+                 <td>[![Love](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()</td>
+                <td>[![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()</td>
             </tr>
-        </table>
+        </table>	
     </div>
 
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
-<img src="https://img.shields.io/github/stars/louiemoreira76/TCC-DB?style=social" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
