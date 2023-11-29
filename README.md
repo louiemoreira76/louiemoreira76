@@ -84,7 +84,8 @@
         </table>
     </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
+<img src="https://img.shields.io/github/stars/louiemoreira76/TCC-DB?style=social" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
