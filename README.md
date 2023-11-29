@@ -56,7 +56,7 @@
                 <td>[![Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()</td>
                 <td>[![Navegador](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)]()</td>
                 <td>[![Love](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()</td>
-                 <td>[![Love](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()</td>
+                 <td>![Linuxs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</td>
                 <td>[![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()</td>
             </tr>
         </table>	
@@ -71,15 +71,6 @@
 <img src="https://github.com/louiemoreira76/imagens/blob/main/rust2.gif" align="center"/>
 
 </div>
-
-![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![LinuxPop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Linuxs](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
