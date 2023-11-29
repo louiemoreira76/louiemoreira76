@@ -38,9 +38,6 @@
 </p>
     
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)         
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  </div>
 
  <div height="30" width="40">
@@ -75,3 +72,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
 </html>
+
