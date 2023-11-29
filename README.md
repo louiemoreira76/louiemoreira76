@@ -70,7 +70,7 @@
 
 
 <div height="30" width="40">
-                    <h1 align="left">Conecte-se comigo:</h1>
+                    <h1 align="left">Conheça-me Melhor:</h1>
         <table align="left">
             <tr>
     <td>
@@ -81,15 +81,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louie.moreira/)</td>
                 <td>[![Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()</td>
             </tr>
-            <tr>
-                <td>Everday</td>
-                <td>As vezes</td>
-                <td>Estudos</td>
-            </tr>
         </table>
     </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=louiemoreira76&theme=blue-green"/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
