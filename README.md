@@ -65,8 +65,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=7&theme=tokyonight" align="left">
 
-<img src="https://github.com/louiemoreira76/imagens/blob/main/rust2.gif" align="center"/>
-
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
