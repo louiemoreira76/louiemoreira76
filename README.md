@@ -63,7 +63,7 @@
 <div>
  <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&theme=blue-green" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=7&theme=tokyonight" align="left">
 
 <img src="https://github.com/louiemoreira76/imagens/blob/main/rust2.gif" align="center"/>
 
