@@ -19,12 +19,13 @@
             <tr>
                 <td>
                     
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
                 </td>
-                <td>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</td>
-                <td>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</td>
-                <td>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</td>
-                <td>![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)</td>
             </tr>
         </table>
     </div>
@@ -49,7 +50,7 @@
 </td>
 <td>              
             
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.instagram.com/louie.moreira/)</td>
+[![React](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.instagram.com/louie.moreira/)</td>
                 <td>[![Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()</td>
                 <td>[![Navegador](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)]()</td>
                 <td>[![Love](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()</td>
