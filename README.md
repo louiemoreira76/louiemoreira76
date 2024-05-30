@@ -19,12 +19,12 @@
             <tr>
                 <td>
                     
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
                 </td>
-                <td>![CCS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</td>
+                <td>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</td>
                 <td>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</td>
                 <td>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</td>
-                <td>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</td>
+                <td>![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)</td>
             </tr>
         </table>
     </div>
@@ -33,7 +33,7 @@
 
 <h2 align="center" style="clear: both;">-Desenvolvedor 🚀</h2>
         <p align="left">
-            Combino criatividade e habilidade técnica para criar interfaces envolventes e responsivas. Proficiente em HTML, CSS, JavaScript e MySQL, busco constantemente as melhores práticas de design. Atualmente, desenvolvo componentes reutilizáveis com React, criando aplicações dinâmicas e de alto desempenho. Estou também explorando Rust e C++ para expandir minhas habilidades técnicas.
+            Combino criatividade e habilidade técnica para criar interfaces envolventes e responsivas. Proficiente em HTML, CSS, JavaScript e MySQL, busco constantemente as melhores práticas de design. Atualmente, desenvolvo componentes reutilizáveis com React, criando aplicações dinâmicas e de alto desempenho. Estou também explorando Java, Python, Rust e C++ para expandir minhas habilidades técnicas.
         
 </p>
     
@@ -49,7 +49,7 @@
 </td>
 <td>              
             
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/louie.moreira/)</td>
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.instagram.com/louie.moreira/)</td>
                 <td>[![Game](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()</td>
                 <td>[![Navegador](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)]()</td>
                 <td>[![Love](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()</td>
