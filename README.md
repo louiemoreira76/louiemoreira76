@@ -64,7 +64,7 @@
 <div>
  <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=8&theme=tokyonight" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=10&theme=tokyonight" align="left">
 
 </div>
 
