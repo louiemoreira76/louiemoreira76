@@ -24,7 +24,7 @@
                 <td>[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)</td>
                 <td>[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)</td>
                 <td>[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)</td>
-                <td>[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)</td>
+                <td>[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)</td>
                 <td>[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)</td>
             </tr>
         </table>
