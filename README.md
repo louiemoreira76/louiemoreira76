@@ -14,7 +14,7 @@
     
 <div>
       <h1 align="left">Sobre Mim:</h1>
-        <img align="right" src="https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif" width="300"/>
+        <img align="right" src="https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif" width="200"/>
         <table align="left">
             <tr>
                 <td>
