@@ -34,7 +34,7 @@
 
 <h2 align="center" style="clear: both;">-Desenvolvedor 🚀</h2>
         <p align="left">
-            Combino criatividade e habilidade técnica para criar interfaces envolventes e responsivas. Proficiente em HTML, CSS, JavaScript e MySQL, busco constantemente as melhores práticas de design. Atualmente, desenvolvo componentes reutilizáveis com React, criando aplicações dinâmicas e de alto desempenho. Estou também explorando Java, Python, Rust e C++ para expandir minhas habilidades técnicas.
+            Combino criatividade e habilidade técnica para criar interfaces envolventes e responsivas. Proficiente em HTML, CSS, JavaScript e MySQL, busco constantemente as melhores práticas de design. Atualmente, desenvolvo componentes reutilizáveis com React, criando aplicações dinâmicas e de alto desempenho. Estou também explorando Java, Python, C# e C++ para expandir minhas habilidades técnicas.
         
 </p>
     
