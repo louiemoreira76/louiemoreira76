@@ -31,7 +31,7 @@
         </table>
     </div>
 
-<div style="clear: both; margin-top: 40px">
+<div style="clear: both; margin-top: 10px">
 
 <h2 align="center" style="clear: both;">Desenvolvedor 🚀</h2>
         <p align="left">
