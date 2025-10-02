@@ -13,7 +13,7 @@
     </div>
     
 <div>
-      <h1 align="left">Sobre Mim:</h1>
+      <h1 align="left">About Me:</h1>
         <img align="right" src="https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
         <table align="left">
             <tr>
@@ -25,7 +25,7 @@
                 <td> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/> </td>
                 <!--[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)-->
                 <td> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></td>
-                <td><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></td>
+                <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></td>
                 <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></td>
             </tr>
         </table>
@@ -35,15 +35,15 @@
 
 <h2 align="center" style="clear: both;">Desenvolvedor 🚀</h2>
         <p align="left">
-            Combino criatividade e habilidade técnica para criar interfaces envolventes e responsivas. Proficiente em HTML, CSS, JavaScript e MySQL, busco constantemente as melhores práticas de design. Atualmente, desenvolvo componentes reutilizáveis com React, criando aplicações dinâmicas e de alto desempenho. Estou também explorando Java, Python, C# e C++ para expandir minhas habilidades técnicas.
-        
+        Full Stack Developer focused on creating complete and efficient web applications. On the front end, I create engaging and responsive interfaces using React, HTML, CSS, and JavaScript. On the back-end, I develop robust and scalable RESTful APIs with Java and Spring Boot, using MySQL for data persistence. I constantly seek out best practices in software development and architecture. I also have knowledge of Python, C#, and C++ to expand my technical capabilities.
+
 </p>
     
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  </div>
 
  <div height="30" width="40">
-                    <h1 align="left">Conheça-me Melhor:</h1>
+                    <h1 align="left">Get to know me better:</h1>
         <table align="left">
             <tr>
     <td>
