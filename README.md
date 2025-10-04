@@ -8,7 +8,7 @@
     <img src="https://github.com/louiemoreira76/imagens/raw/main/giphy.gif" height="450px" width="1500px"/>
 
 <div align="center">
-        <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello"> Hi, My name is Luis Moreira</h1>
+        <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello"> Hi, My name is Luis Moreira <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="35px"/></h1>
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiemoreira76&label=Profile%20views&color=0e75b6&style=flat" alt="louiemoreira76" /> </p>
     </div>
     
@@ -34,18 +34,18 @@
 
 <div style="clear: both; margin-top: 160px">
 
-<p align="center" style="font-size: 40px; font-weight: bold; color: #800080; clear: both;">👾About Me🌐</p>
+<p align="center" style="font-size: 40px; font-weight: bold;clear: both;">👾About Me🌐 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
         <p align="left">
         Full Stack Developer focused on creating complete and efficient web applications. On the front end, I create engaging and responsive interfaces using React, HTML, CSS, and JavaScript. On the back-end, I develop robust and scalable RESTful APIs with Java and Spring Boot, using MySQL for data persistence. I constantly seek out best practices in software development and architecture. I also have knowledge of Python, C#, and C++ to expand my technical capabilities.
 
 </p>
     
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
  </div>
 
  <div height="30" width="40">
-                    <h1 align="left">{Get to know me better}</h1>
+                    <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"/>{Get to know me better}<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" height="35px"/> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="35px"/></h1>
         <table align="left">
             <tr>
     <td>
