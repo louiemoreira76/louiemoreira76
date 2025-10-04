@@ -33,7 +33,6 @@
 <div style="clear: both; margin-top: 160px">
 
 <p align="center" style="font-size: 40px; font-weight: bold;clear: both;">👾About Me🌐 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
         <p align="left">
         Full Stack Developer focused on creating complete and efficient web applications. On the front end, I create engaging and responsive interfaces using React, HTML, CSS, and JavaScript. On the back-end, I develop robust and scalable RESTful APIs with Java and Spring Boot, using MySQL for data persistence. I constantly seek out best practices in software development and architecture. I also have knowledge of Python, C#, and C++ to expand my technical capabilities.
 
@@ -68,7 +67,8 @@
 
 
 </div>
-
+    
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=" style="width: 100%;">
 </body>
 </html>
