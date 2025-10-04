@@ -18,15 +18,15 @@
             <tr>
                 <td>
                     
-<a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /></a>
+<a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" /></a>
                 </td>
-                <td> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" /></td>
-                <td> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50"/> </td>
+                <td> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" /></td>
+                <td> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52"/> </td>
                 <!--[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)-->
-                <td> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /></td>
-                <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /></td>
-                <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /></td>
-                <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /></td>
+                <td> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" /></td>
+                <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /></td>
+                <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="52" height="52" /></td>
+                <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="52" height="52" /></td>
             </tr>
         </table>
     </div>
