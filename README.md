@@ -27,7 +27,6 @@
                 <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /></td>
                 <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /></td>
                 <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /></td>
-                <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" /></td>
             </tr>
         </table>
     </div>
