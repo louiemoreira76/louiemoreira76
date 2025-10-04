@@ -5,45 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/louiemoreira76/imagens/blob/main/giphy.gif" height="450px" width="1500px"/>
+    <img src="https://github.com/louiemoreira76/imagens/raw/main/giphy.gif" height="450px" width="1500px"/>
 
 <div align="center">
         <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="35px" alt="hello"> Hi, My name is Luis Moreira</h1>
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiemoreira76&label=Profile%20views&color=0e75b6&style=flat" alt="raguinata" /> </p>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=louiemoreira76&label=Profile%20views&color=0e75b6&style=flat" alt="louiemoreira76" /> </p>
     </div>
     
 <div>
-      <h1 align="left">About Me:</h1>
-        <img align="right" src="https://github.com/louiemoreira76/imagens/blob/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
+        <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
         <table align="left">
             <tr>
                 <td>
                     
-<a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a>
+<a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" /></a>
                 </td>
-                <td> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></td>
-                <td> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/> </td>
+                <td> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" /></td>
+                <td> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" height="62"/> </td>
                 <!--[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)-->
-                <td> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></td>
-                <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></td>
-                <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></td>
+                <td> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="62" height="62" /></td>
+                <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" /></td>
+                <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /></td>
+                <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="62" height="62" /></td>
+                <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="62" height="62" /></td>
             </tr>
         </table>
     </div>
 
 <div style="clear: both; margin-top: 160px">
 
-<h2 align="center" style="clear: both;">Desenvolvedor 🚀</h2>
+<p align="center" style="font-size: 40px; font-weight: bold; color: #800080; clear: both;">👾About Me🌐</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
         <p align="left">
         Full Stack Developer focused on creating complete and efficient web applications. On the front end, I create engaging and responsive interfaces using React, HTML, CSS, and JavaScript. On the back-end, I develop robust and scalable RESTful APIs with Java and Spring Boot, using MySQL for data persistence. I constantly seek out best practices in software development and architecture. I also have knowledge of Python, C#, and C++ to expand my technical capabilities.
 
 </p>
     
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
  </div>
 
  <div height="30" width="40">
-                    <h1 align="left">Get to know me better:</h1>
+                    <h1 align="left">{Get to know me better}</h1>
         <table align="left">
             <tr>
     <td>
@@ -61,7 +63,6 @@
         </table>	
     </div>
 
-<hr/>
 <div>
  <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
 
