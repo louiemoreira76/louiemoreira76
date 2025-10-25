@@ -64,6 +64,7 @@
     
  <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="230" height="230"/>
 
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=10&theme=tokyonight&random=1)
 
 
