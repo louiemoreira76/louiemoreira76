@@ -13,7 +13,6 @@
     </div>
     
 <div>
-        <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
         <table align="left">
             <tr>
                 <td>
@@ -60,9 +59,12 @@
     </div>
 
 <div>
- <img src="https://github-profile-trophy.vercel.app/?username=louiemoreira76&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" align="right"/>
+    
+ <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=10&theme=tokyonight&random=1)
+
+
 
 
 </div>
