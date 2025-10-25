@@ -13,7 +13,7 @@
     </div>
     
 <div>
-        <table align="left">
+        <table align="center">
             <tr>
                 <td>
                     
@@ -26,12 +26,14 @@
                 <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /></td>
                 <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="52" height="52" /></td>
                 <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="52" height="52" /></td>
+                 <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="52" height="52" /></td>
+                 <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="52" height="52" /></td>
             </tr>
         </table>
     </div>
 
 <div style="clear: both; margin-top: 160px">
-        <p align="left">
+        <p align="center">
         👾About Me🌐: Full Stack Developer focused on creating complete and efficient web applications. On the front end, I create engaging and responsive interfaces using React, HTML, CSS, and JavaScript. On the back-end, I develop robust and scalable RESTful APIs with Java and Spring Boot, using MySQL for data persistence. I constantly seek out best practices in software development and architecture. I also have knowledge of Python, C#, and C++ to expand my technical capabilities.
 
 </p>
@@ -60,7 +62,7 @@
 
 <div>
     
- <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="280" height="300"/>
+ <img align="right" src="https://github.com/louiemoreira76/imagens/raw/main/ezgif.com-resize%20(1).gif" width="230" height="230"/>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemoreira76&layout=compact&langs_count=10&theme=tokyonight&random=1)
 
